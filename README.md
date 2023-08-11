@@ -18,13 +18,20 @@ hi, my name's regine and my teacher sent me to create this page.
 ----------------------
 
 #### who am i actually
-- i'm inspired by astrophysics
+<!-- i'm inspired by astrophysics
 - enjoing neurobiology and cognitive studies
 - love Bayes theorem since i was 10
 - "path of exile" is my primary hobby
 - can't live without solving challenging cases just to show off
 - tried almost every MOBA existing 
-- sometimes i go camping with friends and guitars
+- sometimes i go camping with friends and guitars -->
+
+![image](https://github.com/redd-ratt/redd-ratt/assets/4120771/d533827f-8538-461d-81dd-35efd50e2a62)
+
+
+
+
+
 
 
 </br> </br> </br> </br> </br> 
