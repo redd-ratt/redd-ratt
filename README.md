@@ -26,7 +26,7 @@ hi, my name's regine and my teacher sent me to create this page.
 - tried almost every MOBA existing 
 - sometimes i go camping with friends and guitars -->
 
-![image](https://github.com/redd-ratt/redd-ratt/assets/4120771/0ee2f80a-bf14-4885-9fdb-f3d3a370ff95)
+![plt.pie](https://github.com/redd-ratt/redd-ratt/assets/4120771/0ee2f80a-bf14-4885-9fdb-f3d3a370ff95)
 
 
 
