@@ -41,4 +41,5 @@ hi, my name's regine and my teacher sent me to create this page.
 <!--
 **redd-ratt/redd-ratt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-so long, </br>  and thanks for all the fish
+so long, </br>  
+and thanks for all the fish
