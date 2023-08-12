@@ -11,7 +11,7 @@ hi, my name's regine and my teacher sent me to create this page.
 #### currently:
 - studying DS/EDA/ML/python
 - import pandas/numpy/seaborn/keras/tensorflow
-- grown up to team lead upon 12 ppl in 3 years but want to back doing actual things by myself
+- grown up to team lead upon 12 ppl in 3 years but wanna be back doing actual things by myself
 </br></br>
 ----------------------
 ###### here the place for my future projects or your advertisement
