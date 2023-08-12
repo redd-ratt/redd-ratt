@@ -26,7 +26,7 @@ hi, my name's regine and my teacher sent me to create this page.
 - tried almost every MOBA existing 
 - sometimes i go camping with friends and guitars -->
 
-![image](https://github.com/redd-ratt/redd-ratt/assets/4120771/0af3eaab-9bd1-4722-ae94-bf3337982f5c)
+![image](https://github.com/redd-ratt/redd-ratt/assets/4120771/0ee2f80a-bf14-4885-9fdb-f3d3a370ff95)
 
 
 
@@ -35,9 +35,10 @@ hi, my name's regine and my teacher sent me to create this page.
 
 
 
-</br> </br> </br> </br> </br> 
+
+</br> </br> </br> </br> 
 
 <!--
 **redd-ratt/redd-ratt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-so long, and thanks for all the fish
+so long, </br>  and thanks for all the fish
