@@ -14,8 +14,7 @@ hi, my name's regine and my teacher sent me to create this page.
 - grown up to team lead upon 12 ppl in 3 years but wanna be back doing actual things by myself
 </br></br>
 ----------------------
-###### here the place for my future projects or your advertisement
-educational projects:
+###### educational projects:
 1) [hh.ru CV analysis](https://github.com/redd-ratt/sf_ds_py/blob/main/py15-hh-proj/Project-1._Ноутбук-шаблон.ipynb)
 ----------------------
 
